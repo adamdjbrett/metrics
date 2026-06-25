@@ -85,5 +85,8 @@
     "libxmljs2": "^0.32.0",
     "rss": "^1.2.2",
     "yargs-parser": "^21.1.1"
+  },
+  "overrides": {
+    "undici": "~7.28.0"
   }
 }
